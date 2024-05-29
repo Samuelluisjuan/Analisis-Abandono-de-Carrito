@@ -8,8 +8,11 @@ Deseamos saber el comportamiento de nuestros clientes y sobre los artículos que
 
 # Colaboradores:
 	Nahir Maraz - Científico de Datos - LinkedIn
+
 	Víctor Rincón - Científico de Datos - LinkedIn
+
 	Samuel Juan - Analista de Datos - LinkedIn
+
 	Daniela Puebla - Analista de Datos y Analista BI - LinkedIn
 
 ## *Tecnologías:
