@@ -48,7 +48,7 @@ E-commerce
 ## *Descripción:* 
 Deseamos saber el comportamiento de nuestros clientes y sobre los artículos que dejan en el carrito de compras. Realizaremos un análisis para determinar lo que está sucediendo. El objetivo principal es identificar posibles razones detrás de este fenómeno y proponer estrategias efectivas para aumentar la retención y conversión de clientes.
 
-# Colaboradores:
+# *Colaboradores:*
 
 - **Nahir Maraz** - Científico de Datos - [LinkedIn](https://www.linkedin.com/in/marlen-nahir-maraz)
 - **Víctor Rincon** - Científico de Datos - [LinkedIn](http://www.linkedin.com/in/victor-rincon3128)
@@ -56,22 +56,22 @@ Deseamos saber el comportamiento de nuestros clientes y sobre los artículos que
 - **Daniela Puebla** - Analista de Datos y Analista BI - [LinkedIn](http://linkedin.com/in/daniela-pueblam31)
 
 
-## *Tecnologías:
+## *Tecnologías:*
 -	SQL
 
 - Python
 
 -	Power BI
 
-## *Enlaces del Proyecto:
+## *Enlaces del Proyecto:*
 -	Repositorio en GitHub: https://github.com/No-Country/c18-81-t-data-bi 
 
 
-## *Descripción del Proyecto: 
+## *Descripción del Proyecto:* 
 El Análisis de Carrito Abandonado es un proyecto diseñado para investigar y comprender el comportamiento de los usuarios que abandonan el carrito de compras en un sitio web de e-commerce. El objetivo principal es identificar posibles razones detrás de este fenómeno y proponer estrategias efectivas para aumentar la retención y conversión de clientes.
 
 
-## Preguntas Clave:
+## *Preguntas Clave:*
 -	¿En qué punto del proceso de compra los usuarios tienden a abandonar sus carritos?
 
 -	¿Existen patrones comunes entre los usuarios que abandonan el carrito?
@@ -80,7 +80,7 @@ El Análisis de Carrito Abandonado es un proyecto diseñado para investigar y co
 
 -	¿Qué estrategias pueden implementarse para reducir la tasa de abandono y mejorar la experiencia del usuario?
 
-## Características del Proyecto:
+## *Características del Proyecto:*
 -	*Modelado Predictivo:* Implementación de modelos predictivos para identificar usuarios con alta probabilidad de abandonar el carrito.
 
 -	*Análisis de Datos:* Uso de técnicas de análisis de datos para explorar y comprender el comportamiento del usuario.
