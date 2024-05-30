@@ -48,7 +48,7 @@ E-commerce
 ## *Descripción:* 
 Deseamos saber el comportamiento de nuestros clientes y sobre los artículos que dejan en el carrito de compras. Realizaremos un análisis para determinar lo que está sucediendo. El objetivo principal es identificar posibles razones detrás de este fenómeno y proponer estrategias efectivas para aumentar la retención y conversión de clientes.
 
-# *Colaboradores:*
+## *Colaboradores:*
 
 - **Nahir Maraz** - Científico de Datos - [LinkedIn](https://www.linkedin.com/in/marlen-nahir-maraz)
 - **Víctor Rincon** - Científico de Datos - [LinkedIn](http://www.linkedin.com/in/victor-rincon3128)
