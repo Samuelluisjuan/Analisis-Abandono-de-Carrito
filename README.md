@@ -125,3 +125,35 @@ Para este proyecto, se utilizarán datos simulados de carritos abandonados, disp
 ## *Contacto:* 
 Para más información o consultas sobre el proyecto, por favor contacta a uno de los colaboradores a través de sus perfiles de LinkedIn.
 
+
+## KPI Calculados
+
+### 1. Porcentaje de Compras (KPI 1)
+- **Descripción**: Mide el porcentaje de compras realizadas respecto al total de compras.
+- **Fórmula**: 
+  Porcentaje de Compras = (Compras Realizadas / Total de Compras) × 100
+
+### 2. Porcentaje de Compras por Género (KPI 2)
+- **Descripción**: Mide el porcentaje de compras realizadas por hombres y mujeres.
+- **Fórmula para Hombres**: 
+  Porcentaje de Compras (Hombres) = (Compras Realizadas por Hombres / Total de Compras) × 100
+- **Fórmula para Mujeres**: 
+  Porcentaje de Compras (Mujeres) = (Compras Realizadas por Mujeres / Total de Compras) × 100
+
+### 3. Compras por Método de Pago (KPI 3)
+- **Descripción**: Mide el porcentaje de compras realizadas en efectivo y con tarjeta de crédito, subdividido por el número de cuotas.
+- **Fórmulas**:
+  - **Efectivo**: 
+    Porcentaje de Compras (Efectivo) = (Compras en Efectivo / Total de Compras) × 100
+  - **Tarjeta de Crédito 1 Cuota**: 
+    Porcentaje de Compras (1 Cuota) = (Compras en 1 Cuota / Total de Compras) × 100
+  - **Tarjeta de Crédito 3 Cuotas**: 
+    Porcentaje de Compras (3 Cuotas) = (Compras en 3 Cuotas / Total de Compras) × 100
+  - **Tarjeta de Crédito 6 Cuotas**: 
+    Porcentaje de Compras (6 Cuotas) = (Compras en 6 Cuotas / Total de Compras) × 100
+
+### 4. Producto Más Vendido (KPI 4)
+- **Descripción**: Mide el porcentaje de ventas del producto más vendido en relación al total de compras.
+- **Fórmula**: 
+  Porcentaje del Producto Más Vendido = (Ventas del Producto Más Vendido / Total de Compras) × 100
+
