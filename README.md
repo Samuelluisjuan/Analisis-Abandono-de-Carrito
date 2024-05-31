@@ -39,6 +39,9 @@
 <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3270344/notion-icon-sm.png" alt="Notion" width="45px" style="max-width:100%; height:auto;" title="Notion">
 </div>
 
+# *¡Bienvenido a DatAction & Solutions!*
+
+Somos un equipo de científicos y analistas de datos  apasionados por desbloquear el potencial de los datos. Con nuestra experiencia y habilidades, ofrecemos soluciones personalizadas y eficientes para impulsar el éxito empresarial. En DatAction & Solutions, transformamos datos en información valiosa para tomar decisiones estratégicas y alcanzar tus objetivos comerciales.
 
 # Análisis de Carrito Abandonado
 
