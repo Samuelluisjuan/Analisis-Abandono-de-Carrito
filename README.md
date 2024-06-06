@@ -1,4 +1,3 @@
-## Languages ​​we work
 <div style="display: flex;">
 <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="Python" width="50px" style="max-width:100%; height:auto;" title="Python">
 <img src="https://img.icons8.com/color/452/numpy.png" alt="Numpy" width="55px" style="max-width:100%; height:auto;" title="Numpy">
