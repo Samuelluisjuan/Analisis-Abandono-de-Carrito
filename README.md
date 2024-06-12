@@ -95,10 +95,16 @@ Para este proyecto, se utilizarán datos simulados de carritos abandonados, disp
   - **Tarjeta de Crédito 6 Cuotas**: 
     Porcentaje de Compras (6 Cuotas) = (Compras en 6 Cuotas / Total de Compras) × 100
 
-### 4. Producto Más Vendido (KPI 4)
-- **Descripción**: Mide el porcentaje de ventas del producto más vendido en relación al total de compras.
-- **Fórmula**: 
-  Porcentaje del Producto Más Vendido = (Ventas del Producto Más Vendido / Total de Compras) × 100
+### 4. Porecentaje de Productos Deaseados vs comprados (KPI 4)
+- **Descripción**: Mide el porcentaje de ventas de  productos  en relación a los productos deseados del total de compras.
+- **Fórmula**: Porcentaje ventas deseadas = (Ventas deseadas / Total de Compras) × 100
+
+
+##*Enlaces del Proyecto:*
+
+- Repositorios en GitHub: https://github.com/No-Country/c18-81-t-data-bi ,  https://github.com/Samuelluisjuan/Analisis-Abandono-de-Carrito/edit/main/README.md , https://github.com/Danny3431/Analisis-de-carro-de-compras-NoCountry 
+
+- Sitio Web del Proyecto:  https://app.powerbi.com/view?r=eyJrIjoiNTU3ZGYyZTUtZDQzZS00MTcwLThjY2YtY2E0MzYyOGY1MjI3IiwidCI6ImZhZTJmNWI5LTY3MTEtNGYyYy1iYWUzLTI2ZGIzM2M2M2QzZCIsImMiOjR9
 
 ## *Desarrolladores:*
 
