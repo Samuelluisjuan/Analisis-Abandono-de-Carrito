@@ -104,7 +104,7 @@ Para este proyecto, se utilizarán datos simulados de carritos abandonados, disp
 
 - Repositorios en GitHub: https://github.com/No-Country/c18-81-t-data-bi ,  https://github.com/Samuelluisjuan/Analisis-Abandono-de-Carrito/edit/main/README.md , https://github.com/Danny3431/Analisis-de-carro-de-compras-NoCountry 
 
-- Sitio Web del Proyecto:  https://app.powerbi.com/view?r=eyJrIjoiNTU3ZGYyZTUtZDQzZS00MTcwLThjY2YtY2E0MzYyOGY1MjI3IiwidCI6ImZhZTJmNWI5LTY3MTEtNGYyYy1iYWUzLTI2ZGIzM2M2M2QzZCIsImMiOjR9
+
 
 ## *Desarrolladores:*
 
